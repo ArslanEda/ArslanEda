@@ -1,13 +1,13 @@
-![MasterHead](https://github.com/user-attachments/assets/6fa89ed0-00f5-444c-ace6-2df3268994b3)
+![MasterHead](https://github.com/user-attachments/assets/7b36446d-c4bd-40e0-abdb-2207ffe3a85d)
 
 ---
 
 ### About Me  
 - I’m currently working on [**EventTicketSystem**](https://github.com/ArslanEda/EventTicketSystem)  
 - I’m currently learning **.NET** and **Angular**  
+- I’m learning and improving my skills in **.NET** and **Angular**  
 - Ask me about **Backend Development, REST APIs, Angular Components, and Clean Code**  
-- How to reach me: **edarsln2@gmail.com**  
-- Fun fact: I love creating clean, reusable and scalable code ✨  
+- You can reach me at **edarsln2@gmail.com**   
 
 ---
 
