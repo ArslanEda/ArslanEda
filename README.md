@@ -1,4 +1,5 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHXGh_EXrVaKA/profile-displaybackgroundimage-shrink_350_1400/B56Zn3Y9MeJkAY-/0/1760792139191?e=1762387200&v=beta&t=9JKiJ6PJuTLUMnSZU-24VgdPMBJgFGMqzOcb2I8nVds)
+![MasterHead](https://github.com/user-attachments/assets/193add3e-d123-4c7e-8815-ebe96a21e70d)
+
 
 ---
 
