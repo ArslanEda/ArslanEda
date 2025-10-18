@@ -1,5 +1,4 @@
-![MasterHead](https://github.com/user-attachments/assets/193add3e-d123-4c7e-8815-ebe96a21e70d)
-
+![MasterHead](https://github.com/user-attachments/assets/6fa89ed0-00f5-444c-ace6-2df3268994b3)
 
 ---
 
