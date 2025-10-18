@@ -1,8 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHXGh_EXrVaKA/profile-displaybackgroundimage-shrink_350_1400/B56Zn3Y9MeJkAY-/0/1760792139191?e=1762387200&v=beta&t=9JKiJ6PJuTLUMnSZU-24VgdPMBJgFGMqzOcb2I8nVds)
 
-<h1 align="center">Hi 👋, I'm Eda Nur Arslan</h1>
-<h3 align="center">A passionate Full Stack Developer from Turkey 🇹🇷</h3>
-
 ---
 
 ### 🚀 About Me  
