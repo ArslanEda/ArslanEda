@@ -2,8 +2,7 @@
 
 ---
 
-### About Me  
-- I’m currently working on [**EventTicketSystem**](https://github.com/ArslanEda/EventTicketSystem)  
+### About Me   
 - I’m currently learning **.NET** and **Angular**  
 - I’m learning and improving my skills in **.NET** and **Angular**  
 - Ask me about **Backend Development, REST APIs, Angular Components, and Clean Code**  
