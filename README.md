@@ -3,11 +3,12 @@
 ---
 
 ### About Me   
-- I’m currently learning **.NET** and **Angular**  
-- I’m learning and improving my skills in **.NET** and **Angular**  
-- Ask me about **Backend Development, REST APIs, Angular Components, and Clean Code**  
-- You can reach me at **edarsln2@gmail.com**   
-
+- I am a software developer focused on improving myself in **.NET Backend development**  
+- I build projects by following **Clean Architecture** and **Domain-Driven Design (DDD)** principles  
+- I actively apply **SOLID principles** and common **Design Patterns** in my projects 
+- Feel free to reach out regarding **Backend development, .NET, APIs, Clean Code, and Software Architecture**  
+- Contact: **edarsln2@gmail.com**
+  
 ---
 
 ### Languages & Tools
