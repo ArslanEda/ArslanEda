@@ -6,7 +6,7 @@
 - I am a software developer focused on improving myself in **.NET Backend development**  
 - I build projects by following **Clean Architecture** and **Domain-Driven Design (DDD)** principles  
 - I actively apply **SOLID principles** and common **Design Patterns** in my projects 
-- Feel free to reach out regarding **Backend development, .NET, APIs, Clean Code, and Software Architecture**  
+- You can reach out to me regarding **Backend Development, .NET, APIs, Clean Code, and Software Architecture**. 
 - Contact: **edarsln2@gmail.com**
   
 ---
