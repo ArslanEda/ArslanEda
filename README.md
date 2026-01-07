@@ -25,10 +25,9 @@
 ---
 
 ### GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arslaneda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="arslaneda" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=arslaneda&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslaneda&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arslaneda&theme=tokyonight" />
+<img src="https://komarev.com/ghpvc/?username=arslaneda&label=Profile%20views&color=0e75b6&style=flat" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arslaneda&show_icons=true&locale=en&theme=tokyonight" alt="arslaneda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arslaneda&theme=tokyonight" alt="arslaneda" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arslaneda&label=Profile%20views&color=0e75b6&style=flat" alt="arslaneda" /> </p>
 ]
